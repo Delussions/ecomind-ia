@@ -1,0 +1,181 @@
+id,texto_entrada,categoria,subtipo_material,requiere_limpieza
+1,Cascara de platano maduro,organico,restos_frutas,no
+2,Cascara de naranja recien exprimida,organico,restos_frutas,no
+3,Corazon y semillas de manzana roja,organico,restos_frutas,no
+4,Cascara de sandia en trozos,organico,restos_frutas,no
+5,Hueso y cascara de aguacate,organico,restos_frutas,no
+6,Restos de papaya y melon picado,organico,restos_frutas,no
+7,Cascaras de mandarina y limon verde,organico,restos_frutas,no
+8,Cascara de mango petacon y hueso,organico,restos_frutas,no
+9,Uvas pasadas y fresas magulladas,organico,restos_frutas,no
+10,Corona y cascara de pina fresca,organico,restos_frutas,no
+11,Cascara de toronja y lima,organico,restos_frutas,no
+12,Restos de guayaba y pera madura,organico,restos_frutas,no
+13,Cascara de kiwi y durazno,organico,restos_frutas,no
+14,Tallos de brocoli y hojas de coliflor,organico,restos_vegetales,no
+15,Cascaras de papa y zanahoria cruda,organico,restos_vegetales,no
+16,Hojas externas de lechuga marchita,organico,restos_vegetales,no
+17,Puntas de ejotes y cascaras de chicharo,organico,restos_vegetales,no
+18,Cascara de cebolla blanca y ajo,organico,restos_vegetales,no
+19,Restos de espinaca y acelga cruda,organico,restos_vegetales,no
+20,Tomate jitomate magullado para composta,organico,restos_vegetales,no
+21,Cascara de pepino y puntas de calabaza,organico,restos_vegetales,no
+22,Tallos de cilantro y perejil fresco,organico,restos_vegetales,no
+23,Hojas de elote y olotes de maiz,organico,restos_vegetales,no
+24,Restos de apio y rabanos picados,organico,restos_vegetales,no
+25,Cascara de chayote y betabel crudo,organico,restos_vegetales,no
+26,Pimientos morrones sin semillas en trozos,organico,restos_vegetales,no
+27,Borra de cafe molido de cafetera,organico,infusiones_y_granos,no
+28,Granos de cafe usados humedos,organico,infusiones_y_granos,no
+29,Hojas sueltas de te de manzanilla usado,organico,infusiones_y_granos,no
+30,Bolsita de te de papel sin grapa metalica,organico,infusiones_y_granos,no
+31,Yerba mate usada humeda,organico,infusiones_y_granos,no
+32,Cascarones de huevo triturados limpios,organico,cascaron_organico,no
+33,Cascaras de huevo blanco de desayuno,organico,cascaron_organico,no
+34,Pan bolillo duro sin moho en trozos,organico,restos_alimentos,no
+35,Tortillas de maiz duras o frias,organico,restos_alimentos,no
+36,Arroz blanco cocido sobrante sin grasa,organico,restos_alimentos,no
+37,Frijoles cocidos sobrantes sin caldo graso,organico,restos_alimentos,no
+38,Avena cocida natural sobrante,organico,restos_alimentos,no
+39,Cascaras de nuez, almendra y cacahuate natural,organico,semillas_y_frutos_secos,no
+40,Semillas de calabaza y girasol sin sal,organico,semillas_y_frutos_secos,no
+41,Hojas secas caidas de arboles del jardin,organico,jardineria,no
+42,Recortes de pasto y cesped recien podado,organico,jardineria,no
+43,Flores marchitas de florero sin alambre,organico,jardineria,no
+44,Ramas pequenas secas y hojas de plantas,organico,jardineria,no
+45,Aserrin y viruta de madera natural sin barniz,organico,jardineria,no
+46,Tierra de maceta con raices secas naturales,organico,jardineria,no
+47,Pulpa sobrante de extractor de jugo de zanahoria,organico,restos_vegetales,no
+48,Bagazo de naranja y betabel de jugo natural,organico,restos_frutas,no
+49,Botella de plastico PET de agua vacia,reciclable,plastico_pet,si
+50,Botella de refresco de 600 ml de plastico PET,reciclable,plastico_pet,si
+51,Envase transparente PET de jugo enjuagado,reciclable,plastico_pet,si
+52,Garrafon pequeno de agua de plastico PET limpio,reciclable,plastico_pet,si
+53,Botella de plastico PET aplastada sin liquido,reciclable,plastico_pet,si
+54,Envase de plastico rigido HDPE de shampoo vacio,reciclable,plastico_hdpe,si
+55,Galon de leche de plastico blanco HDPE enjuagado,reciclable,plastico_hdpe,si
+56,Botella de detergente liquido de plastico rigido limpia,reciclable,plastico_hdpe,si
+57,Envase de suavizante de telas vacio y enjuagado,reciclable,plastico_hdpe,si
+58,Bote de yogurt de un litro de plastico limpio y seco,reciclable,plastico_pp,si
+59,Tapas de plastico duro de botellas de agua y refresco,reciclable,plastico_pp,si
+60,Caja de carton corrugado de envio limpia y desarmada,reciclable,carton,no
+61,Caja de cereal de carton delgado sin bolsa interior,reciclable,carton,no
+62,Tubos de carton de papel higienico y servitoallas,reciclable,carton,no
+63,Caja de zapatos de carton limpia y plegada,reciclable,carton,no
+64,Carton de huevo limpio y seco sin manchas,reciclable,carton,no
+65,Empaque de carton de galletas o pasta seco,reciclable,carton,no
+66,Hojas de papel bond blanco impresas de oficina,reciclable,papel,no
+67,Cuaderno escolar usado sin espiral metalico ni plastico,reciclable,papel,no
+68,Periodico viejo limpio y seco atado,reciclable,papel,no
+69,Revistas y folletos publicitarios de papel secos,reciclable,papel,no
+70,Sobres de papel manila o blanco sin ventana plastica,reciclable,papel,no
+71,Bolsa de papel kraft de panaderia limpia y sin grasa,reciclable,papel,no
+72,Folleto impreso y hojas de apuntes limpias,reciclable,papel,no
+73,Lata de aluminio de refresco vacia y compactada,reciclable,aluminio,si
+74,Lata de aluminio de jugo o bebida energetica limpia,reciclable,aluminio,si
+75,Lata de cerveza de aluminio vacia y enjuagada,reciclable,aluminio,si
+76,Lata de conserva de atun lavada sin residuos de aceite,reciclable,metal_hojalata,si
+77,Lata metalica de elotes o chicharos enjuagada,reciclable,metal_hojalata,si
+78,Lata de frijoles o chiles en vinagre limpia y seca,reciclable,metal_hojalata,si
+79,Tapas metalicas de frascos de vidrio limpias,reciclable,metal_hojalata,no
+80,Papel aluminio limpio sin restos de comida ni grasa,reciclable,aluminio,si
+81,Charola de aluminio desechable lavada y seca,reciclable,aluminio,si
+82,Botella de vidrio transparente de jugo o agua vacia,reciclable,vidrio,si
+83,Frasco de vidrio de mermelada lavado y sin etiqueta,reciclable,vidrio,si
+84,Frasco de vidrio de cafe soluble limpio y seco,reciclable,vidrio,si
+85,Botella de vidrio verde o ambar de bebida enjuagada,reciclable,vidrio,si
+86,Frasco de vidrio de mayonesa o salsa bien lavado,reciclable,vidrio,si
+87,Envase de vidrio de conserva sin tapa y enjuagado,reciclable,vidrio,si
+88,Envase Tetra Pak de leche enjuagado, escurrido y aplastado,reciclable,multicapa_tetrapak,si
+89,Caja Tetra Pak de jugo de un litro limpia y seca,reciclable,multicapa_tetrapak,si
+90,Envase multicapa de crema o caldo liquido enjuagado,reciclable,multicapa_tetrapak,si
+91,Directorio telefonico o libro viejo sin pasta dura,reciclable,papel,no
+92,Carpetas o folders de cartulina limpios sin broche metalico,reciclable,carton,no
+93,Bote metalico de leche en polvo o avena vacio y limpio,reciclable,metal_hojalata,si
+94,Botella de plastico de limpiador multiusos enjuagada,reciclable,plastico_hdpe,si
+95,Caja de carton de electrodomestico doblada sin unicel,reciclable,carton,no
+96,Frasco de vidrio de alimento infantil limpio,reciclable,vidrio,si
+97,Papel sanitario usado de bano,no_reciclable,higiene_personal,no
+98,Servilletas de papel sucias con grasa y salsa,no_reciclable,papel_contaminado,no
+99,Panuelos desechables usados con fluido nasal,no_reciclable,higiene_personal,no
+100,Toallas de papel de cocina impregnadas de aceite,no_reciclable,papel_contaminado,no
+101,Caja de carton de pizza manchada de queso y grasa,no_reciclable,carton_contaminado,no
+102,Panal desechable usado de bebe,no_reciclable,higiene_personal,no
+103,Toallas sanitarias femeninas y protectores usados,no_reciclable,higiene_personal,no
+104,Hisopos o cotonetes de algodon usados,no_reciclable,higiene_personal,no
+105,Algodon desmaquillante o con restos de alcohol,no_reciclable,higiene_personal,no
+106,Hilo dental usado y cepillo de dientes desgastado,no_reciclable,higiene_personal,no
+107,Envoltura metalizada de papas fritas o botanas,no_reciclable,empaque_multicapa,no
+108,Envoltura de plástico metalizado de galletas y dulces,no_reciclable,empaque_multicapa,no
+109,Vaso desechable de unicel poliestireno expandido sucio,no_reciclable,unicel_eps,no
+110,Plato de unicel con restos de comida y salsa,no_reciclable,unicel_eps,no
+111,Charola de unicel de supermercado donde venia carne cruda,no_reciclable,unicel_eps,no
+112,Relleno de unicel o bolitas de espuma de empaque,no_reciclable,unicel_eps,no
+113,Colillas de cigarro apagadas y ceniza de tabaco,no_reciclable,residuo_tabaco,no
+114,Chicles o goma de mascar masticada envuelta,no_reciclable,otros_no_aprovechables,no
+115,Bolsa de plastico film adherente sucia de alimentos,no_reciclable,plastico_contaminado,no
+116,Popotes y cubiertos de plastico desechables usados,no_reciclable,plastico_un_solo_uso,no
+117,Vaso de carton encerado de cafe caliente usado,no_reciclable,papel_contaminado,no
+118,Papel encerado o papel aluminio lleno de grasa quemada,no_reciclable,papel_contaminado,no
+119,Tickets y recibos impresos en papel termico de cajero,no_reciclable,papel_termico,no
+120,Etiquetas adhesivas y calcomanias desprendidas,no_reciclable,otros_no_aprovechables,no
+121,Cinta adhesiva canela, diurex o cinta de aislar usada,no_reciclable,otros_no_aprovechables,no
+122,Taza o plato de ceramica y porcelana roto en pedazos,no_reciclable,ceramica_y_cristal,no
+123,Espejo roto o cristal de ventana fragmentado,no_reciclable,ceramica_y_cristal,no
+124,Vaso de cristal templado o refractario Pirex roto,no_reciclable,ceramica_y_cristal,no
+125,Polvo y pelusa recogidos al barrer o de bolsa de aspiradora,no_reciclable,limpieza_hogar,no
+126,Arena sanitaria usada y heces de gato o perro,no_reciclable,residuos_mascotas,no
+127,Bolsita biodegradable con excremento de mascota,no_reciclable,residuos_mascotas,no
+128,Esponja sintetica de lavar trastes vieja y desgastada,no_reciclable,limpieza_hogar,no
+129,Trapo o jerga de microfibra rota e impregnada de grasa,no_reciclable,limpieza_hogar,no
+130,Guantes de latex o nitrilo desechables rotos,no_reciclable,higiene_personal,no
+131,Cubrebocas o mascarilla desechable usada con ligas cortadas,no_reciclable,higiene_personal,no
+132,Curitas, vendas adhesivas o gasas pequenas de uso domestico,no_reciclable,higiene_personal,no
+133,Rastrillo desechable de afeitar usado,no_reciclable,higiene_personal,no
+134,Plumon marcador permanente seco o boligrafo sin tinta,no_reciclable,papeleria_descarte,no
+135,Papel carbon o fotografias antiguas plastificadas,no_reciclable,papel_contaminado,no
+136,Sobres individuales vacios de catsup, mayonesa o mostaza,no_reciclable,empaque_multicapa,no
+137,Envoltura de sopa instantanea o sobre metalizado de cafe,no_reciclable,empaque_multicapa,no
+138,Cabello humano de cepillo y recorte de unas,no_reciclable,higiene_personal,no
+139,Ligas de hule rotas y globos de latex desinflados,no_reciclable,otros_no_aprovechables,no
+140,Corcho sintetico de plastico o tapones de goma,no_reciclable,otros_no_aprovechables,no
+141,Pila alcalina AA descargada de control remoto,manejo_especial,pilas_y_baterias,no
+142,Pila alcalina AAA usada de juguete o reloj,manejo_especial,pilas_y_baterias,no
+143,Bateria cuadrada de 9 voltios agotada,manejo_especial,pilas_y_baterias,no
+144,Pila de boton de litio de reloj de pulsera o calculadora,manejo_especial,pilas_y_baterias,no
+145,Bateria recargable de iones de litio de telefono celular hinchada,manejo_especial,pilas_y_baterias,no
+146,Bateria externa powerbank danada que ya no retiene carga,manejo_especial,pilas_y_baterias,no
+147,Bateria de laptop agotada de iones de litio,manejo_especial,pilas_y_baterias,no
+148,Acumulador o bateria de automovil de plomo acido usada,manejo_especial,pilas_y_baterias,no
+149,Telefono celular viejo descompuesto con pantalla rota,manejo_especial,residuos_electronicos,no
+150,Cargador de celular y cable USB pelado que no funciona,manejo_especial,residuos_electronicos,no
+151,Audifonos alambricos o inalambricos bluetooth descompuestos,manejo_especial,residuos_electronicos,no
+152,Teclado y raton mouse de computadora inservibles,manejo_especial,residuos_electronicos,no
+153,Monitor o pantalla de television rota obsoleta,manejo_especial,residuos_electronicos,no
+154,Tarjeta madre o placa electronica de circuito impreso,manejo_especial,residuos_electronicos,no
+155,Impresora domestica descompuesta y escaner viejo,manejo_especial,residuos_electronicos,no
+156,Cartucho de tinta vacio y toner de impresora laser,manejo_especial,insumos_impresion,no
+157,Foco ahorrador fluorescente compacto con mercurio fundido,manejo_especial,iluminacion_especial,no
+158,Tubo fluorescente largo de luz blanca fundido,manejo_especial,iluminacion_especial,no
+159,Foco o bombilla LED fundida con componentes electronicos,manejo_especial,iluminacion_especial,no
+160,Aceite vegetal de cocina usado de freir alimentos en botella cerrada,manejo_especial,aceites_usados,no
+161,Aceite automotriz lubricante de motor quemado,manejo_especial,aceites_usados,no
+162,Medicamentos caducos en pastillas, capsulas o jarabe,manejo_especial,farmacos_y_sanitarios,no
+163,Blister de pastillas con medicamentos vencidos,manejo_especial,farmacos_y_sanitarios,no
+164,Jeringas hipodermicas y agujas usadas en contenedor rigido,manejo_especial,farmacos_y_sanitarios,no
+165,Termometro antiguo de vidrio con mercurio roto,manejo_especial,residuos_peligrosos,no
+166,Lata de pintura en aerosol o insecticida presurizada vacia,manejo_especial,quimicos_y_envases,no
+167,Bote con restos de pintura de aceite, esmalte o barniz,manejo_especial,quimicos_y_envases,no
+168,Envase con restos de solvente thinner, aguarras o acetona,manejo_especial,quimicos_y_envases,no
+169,Botella de acido muriatico o sosa caustica destapachada,manejo_especial,quimicos_y_envases,no
+170,Envase de plaguicida, raticida o fertilizante quimico de jardin,manejo_especial,quimicos_y_envases,no
+171,Licuadora, plancha o tostador electrico quemado,manejo_especial,electrodomesticos,no
+172,Horno de microondas descompuesto para desecho electronico,manejo_especial,electrodomesticos,no
+173,Discos compactos CD, DVD y memorias USB danadas,manejo_especial,residuos_electronicos,no
+174,Control remoto de television sin funcionar y modem viejo,manejo_especial,residuos_electronicos,no
+175,Consola de videojuegos antigua o controles descompuestos,manejo_especial,residuos_electronicos,no
+176,Radiografias medicas o placas de rayos X antiguas,manejo_especial,farmacos_y_sanitarios,no
+177,Extintor casero o automotriz descargado y caduco,manejo_especial,quimicos_y_envases,no
+178,Pegamento industrial de contacto o resina epoxica sobrante,manejo_especial,quimicos_y_envases,no
+179,Anticongelante automotriz o liquido de frenos usado,manejo_especial,aceites_usados,no
+180,lampara recargable de emergencia con bateria interna agotada,manejo_especial,residuos_electronicos,no
